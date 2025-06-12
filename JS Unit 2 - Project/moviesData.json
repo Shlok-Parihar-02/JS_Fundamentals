@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "The Grand Adventure",
+    "duration": "2h 15m",
+    "cast": ["John Doe", "Jane Smith", "Alan Brown"],
+    "genre": "Adventure",
+    "releaseYear": 2021,
+    "rating": 8.2
+  },
+  {
+    "id": 2,
+    "name": "Mystery of the Night",
+    "duration": "1h 50m",
+    "cast": ["Emily Clark", "Michael Johnson"],
+    "genre": "Mystery",
+    "releaseYear": 2020,
+    "rating": 7.5
+  },
+  {
+    "id": 3,
+    "name": "Laugh Out Loud",
+    "duration": "1h 40m",
+    "cast": ["Chris Evans", "Anna Taylor"],
+    "genre": "Comedy",
+    "releaseYear": 2022,
+    "rating": 6.8
+  },
+  {
+    "id": 4,
+    "name": "Space Odyssey",
+    "duration": "2h 30m",
+    "cast": ["Mark Lee", "Sophia Turner"],
+    "genre": "Sci-Fi",
+    "releaseYear": 2019,
+    "rating": 9.0
+  },
+  {
+    "id": 5,
+    "name": "Romance in Paris",
+    "duration": "2h 5m",
+    "cast": ["Emma Watson", "Ryan Gosling"],
+    "genre": "Romance",
+    "releaseYear": 2023,
+    "rating": 7.9
+  },
+  {
+    "id": 6,
+    "name": "The Haunted Manor",
+    "duration": "1h 45m",
+    "cast": ["Liam Neeson", "Natalie Portman"],
+    "genre": "Horror",
+    "releaseYear": 2021,
+    "rating": 6.5
+  },
+  {
+    "id": 7,
+    "name": "Epic Battles",
+    "duration": "2h 50m",
+    "cast": ["Tom Hardy", "Gal Gadot"],
+    "genre": "Action",
+    "releaseYear": 2022,
+    "rating": 8.7
+  },
+  {
+    "id": 8,
+    "name": "The Time Traveler",
+    "duration": "2h 10m",
+    "cast": ["Matt Damon", "Scarlett Johansson"],
+    "genre": "Drama",
+    "releaseYear": 2020,
+    "rating": 7.3
+  },
+  {
+    "id": 9,
+    "name": "Underwater Secrets",
+    "duration": "1h 55m",
+    "cast": ["Zendaya", "Jason Momoa"],
+    "genre": "Thriller",
+    "releaseYear": 2023,
+    "rating": 8.0
+  },
+  {
+    "id": 10,
+    "name": "Animated Dreams",
+    "duration": "1h 30m",
+    "cast": ["Voice Cast: Tom Hanks", "Meryl Streep"],
+    "genre": "Animation",
+    "releaseYear": 2024,
+    "rating": 9.2
+  }
+]
